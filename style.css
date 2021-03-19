@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+    margin: 10px;
+}
+.img{
+    display: block;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+}
